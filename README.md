@@ -17,7 +17,7 @@ Convolutional Neural Networks(CNN's) are the go to for image recognition so I di
 ![Model Loss Progression](Testing_Command.png)
 ![Model Loss Progression](Testing_Accuracy.png)
 
-## Web Scrapped Data
+## Web Scraped Data
 https://drive.google.com/drive/folders/1YSRnSA3Orec6tTBBakAF53NA3AbVLByP?usp=sharing
 
 ## References
