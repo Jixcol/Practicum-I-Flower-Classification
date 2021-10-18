@@ -18,6 +18,9 @@ Convolutional Neural Networks(CNN's) are the go to for image recognition so I di
 ![Model Loss Progression](Testing_Command.png)
 ![Model Loss Progression](Testing_Accuracy.png)
 
+## Conclusion
+I can’t help but think the model could have been better if I spent less time on making small improvements. I also underestimated the complexity of what I was doing. I had 7500 testing images for 90 classes and in hindsight that's crazy. Additional things I could have tried including adding a dynamic learning rate and even trying other architectures. The classifier on top of the model could also use more tweaking but it is what it is. Other ways to improve this is adding more data and looking into ensemble methods which by several studies produce the best models.
+
 ## Web Scraped Data
 https://drive.google.com/drive/folders/1YSRnSA3Orec6tTBBakAF53NA3AbVLByP?usp=sharing
 
